@@ -50,3 +50,9 @@ def Max(list):
 
 list=[100,22,3,4,4,4]
 print(Max(list))
+
+
+
+
+
+p
